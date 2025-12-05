@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Hema Siva Kishore
 
-<!--
-**hemasivakishore/hemasivakishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & SRE Engineer | Multi-Cloud (AWS, Azure, GCP)  
+⚙️ Kubernetes | Terraform | GitOps | CI/CD | Observability  
+🛠 Automation with Go, Python, Shell  
+📍 Hyderabad, India | Open to Remote & Global Roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I Do
+- Design and deploy scalable cloud infrastructure
+- Build production-ready CI/CD pipelines
+- Automate cloud operations using Terraform, Go & Python
+- Engineer Kubernetes platforms for reliability and scale
+- Implement DevSecOps & observability practices
+
+---
+
+### 🏗 Featured Projects
+- ✅ AWS VPC Landing Zone with Terraform
+- ✅ Azure AKS Infrastructure (Terraform)
+- ✅ Production Level CI/CD Pipeline
+- ✅ Kubernetes Microservices Deployment
+- ✅ Cloud Automation with Python & Go
+
+---
+
+### 📌 Tech Stack
+AWS | Azure | GCP | Kubernetes | Terraform | Docker | GitHub Actions | Jenkins | Prometheus | Grafana | Go | Python | Shell | Ansible | Git
+
+---
+
+### 📫 Reach Me
+LinkedIn: 
+GitHub: https://github.com/hemasivakishore
