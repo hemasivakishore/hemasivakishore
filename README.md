@@ -31,5 +31,5 @@ AWS | Azure | GCP | Kubernetes | Terraform | Docker | GitHub Actions | Jenkins |
 ---
 
 ### 📫 Reach Me
-Linkedin: www.linkedin.com/in/hemasivakishore
+Linkedin: www.linkedin.com/in/hemasivakishore \
 GitHub: https://github.com/hemasivakishore
