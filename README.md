@@ -2,7 +2,7 @@
 
 🚀 DevOps & SRE Engineer | Multi-Cloud (AWS, Azure, GCP)  
 ⚙️ Kubernetes | Terraform | GitOps | CI/CD | Observability  
-🛠 Automation with Go, Python, Shell  
+🛠 Automation with Shell, Python, Go 
 📍 Hyderabad, India | Open to Remote & Global Roles  
 
 ---
